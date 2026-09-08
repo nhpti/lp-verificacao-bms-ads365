@@ -1,5 +1,5 @@
 /**
- * NOVO HORIZONTE COMERCIO DE MATERIAIS PARA CONSTRUCAO LTDA - Interactive Scripts
+ * Horizonte Novo Empreendimentos e Participacoes Ltda - Interactive Scripts
  */
 
 document.addEventListener('DOMContentLoaded', () => {
